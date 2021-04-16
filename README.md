@@ -1,11 +1,11 @@
 ### Topic of interest
 - Economy energy models
- - Building energy models
- - Agent-based models
+- Building energy models
+- Agent-based models
 
 
 ### Subject
-Thesis title: **New financing levers for the energy renovation of housing.** @ [CIRED](http://www.centre-cired.fr/fr/)
+Thesis title: **New financing levers for the energy renovation of housing.** @ [CIRED](http://www.centre-cired.fr/fr/). 
 We evaluate and design public policies to achieve both social and environmental objectives. 
 We develop models that predict the economic response of these policies, both financially and physically.
 
