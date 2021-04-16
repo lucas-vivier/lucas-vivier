@@ -1,4 +1,4 @@
-### Topic of interest
+### Topics of interest
 - Economy energy models
 - Building energy models
 - Agent-based models
