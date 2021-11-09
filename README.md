@@ -1,15 +1,12 @@
 ### Topics of interest
-- Economy energy models
-- Building energy models
-- Agent-based models
-- Econophysics
-
+- Modelling: Building stock models / Energy economy models / Agent-based models
+- Microeconomics: Investment decision behavior 
+- Environmental economics
 
 ### Subject
 Thesis title: **New financing levers for housing energy renovation.** @ [CIRED](http://www.centre-cired.fr/fr/).  
 We evaluate and design public policies to achieve both social and environmental objectives.  
-We develop models that predict the economic response of these policies, both financially and physically.  
-We try to simulate household behaviour for some economic process.  
+We develop models that simulate the economic response of these policies, both financially and physically.  
 
 ### Tools
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
