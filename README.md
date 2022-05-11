@@ -1,7 +1,8 @@
 ### Topics of interest
-- Modelling: Building stock models / Energy economy models / Agent-based models
-- Microeconomics: Investment decision behavior 
-- Environmental economics
+- Energy effficiency economics.
+- Microsimulation model. Ex ante analysis. In charge of Res-IRF: a microsimualtion model of the residential consumption.
+- Integrateting decision behavior in models (Discrete choice model).
+- Environmental economics.
 
 ### Subject
 Thesis title: **New financing levers for housing energy renovation.** @ [CIRED](http://www.centre-cired.fr/fr/).  
