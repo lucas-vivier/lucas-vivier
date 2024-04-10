@@ -10,8 +10,7 @@ Energy researcher with over 7 years experience in energy policy:
 - [Messageix-Buidings](https://github.com/iiasa/message-ix-buildings), contributor
 
 ### Subject
-Thesis title: **Assessing residential energy efficiency policies subject to multiple market and behavioral frictions
-** @ [CIRED](http://www.centre-cired.fr/fr/).  
+PhD title: **Assessing residential energy efficiency policies subject to multiple market and behavioral frictions** @ [CIRED](http://www.centre-cired.fr/fr/).  
 I evaluate and design public policies to achieve both social and environmental objectives in the residential sector.  
 
 ### Tools
