@@ -1,24 +1,23 @@
-### Topics of interest
-- Energy effficiency economics.
-- Microsimulation model. Ex ante analysis. In charge of Res-IRF: a microsimualtion model of the residential consumption.
-- Integrateting decision behavior in models (Discrete choice model).
-- Environmental economics.
+Energy researcher with over 7 years experience in energy policy:
+- Specialized in energy modeling, policy analysis and scenario development
+- PhD in economics alongside an MSc in energy economics and engineering
+- Author of several publications in academic journals and expert reports
+- background in large-scale international projects for electricity companies
+
+### Modelling contribution:
+- [ResIRF](https://github.com/CIRED/Res-IRF), orginal author
+- [ResIRF 4](https://github.com/CIRED/Res-IRF4), orginal author
+- [Messageix-Buidings](https://github.com/iiasa/message-ix-buildings), contributor
 
 ### Subject
 Thesis title: **New financing levers for housing energy renovation.** @ [CIRED](http://www.centre-cired.fr/fr/).  
 We evaluate and design public policies to achieve both social and environmental objectives.  
-We develop models that simulate the economic response of these policies, both financially and physically.  
 
 ### Tools
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Pycharm-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-
-
-### Previous work
-- Fundamental, financial & statisitical energy model @ EDF
-- Power market analyst @ [CVE North-America](https://www.cvegroup.com/en/our-sites/cve-north-america/)
 
 
 ### Social Networks
