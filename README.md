@@ -10,8 +10,9 @@ Energy researcher with over 7 years experience in energy policy:
 - [Messageix-Buidings](https://github.com/iiasa/message-ix-buildings), contributor
 
 ### Subject
-Thesis title: **New financing levers for housing energy renovation.** @ [CIRED](http://www.centre-cired.fr/fr/).  
-We evaluate and design public policies to achieve both social and environmental objectives.  
+Thesis title: **Assessing residential energy efficiency policies subject to multiple market and behavioral frictions
+** @ [CIRED](http://www.centre-cired.fr/fr/).  
+I evaluate and design public policies to achieve both social and environmental objectives in the residential sector.  
 
 ### Tools
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
